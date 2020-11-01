@@ -1,0 +1,2 @@
+module projava123 {
+}
